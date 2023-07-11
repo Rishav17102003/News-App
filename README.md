@@ -1,2 +1,2 @@
 # News-App
-Created this App using HTML, CSS, JavaScript
+Created this Website using HTML, CSS, JavaScript
